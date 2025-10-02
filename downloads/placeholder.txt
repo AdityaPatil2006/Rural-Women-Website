@@ -1,0 +1,16 @@
+This folder contains downloadable PDF guides in Marathi, Hindi, and English.
+
+PDF files would include:
+- smartphone-guide-marathi.pdf
+- upi-guide-marathi.pdf
+- online-safety-marathi.pdf
+- business-basics-marathi.pdf
+- marketing-guide-marathi.pdf
+- financial-literacy-marathi.pdf
+- startup-india-marathi.pdf
+- mudra-yojana-marathi.pdf
+- digital-india-marathi.pdf
+- other-schemes-marathi.pdf
+
+These PDF files would contain detailed guides in the respective languages for offline use.
+For a production website, these PDF files would be created with actual content and diagrams.
