@@ -1,0 +1,102 @@
+Task:
+Generate a complete static website (HTML, CSS, JavaScript only) for deployment on GitHub Pages or Netlify. The website should be lightweight, mobile-first, offline-friendly, and optimized for low bandwidth.
+
+Project Title:
+
+Empowering Rural Women Entrepreneurs in Maharashtra
+
+Purpose:
+
+A bilingual/trilingual website that empowers rural women entrepreneurs by providing digital literacy, entrepreneurship skills, and government schemes awareness in Marathi, Hindi, and English.
+
+Pages & Content
+1. Home Page
+
+Welcome message in Marathi & English.
+
+Simple navigation with large buttons/icons.
+
+Highlight 4 main sections: Digital Literacy, Entrepreneurship Skills, Government Schemes, Resources.
+
+Visual banner with motivational tagline in Marathi.
+
+2. Digital Literacy Page
+
+Step-by-step tutorials: using smartphones, UPI payments, online safety.
+
+Visual guides with Marathi/Hindi explanations.
+
+Provide downloadable PDFs/images in a /downloads folder for offline use.
+
+3. Entrepreneurship Skills Page
+
+Basics of starting small businesses in rural areas.
+
+Marketing tips using WhatsApp, Facebook, Instagram.
+
+Financial literacy: savings, loans, digital banking.
+
+Add simple infographics and PDF guides.
+
+4. Government Schemes Page
+
+Summarized information about women-focused schemes:
+
+Startup India
+
+Mudra Yojana
+
+Digital India
+
+Include links & downloadable PDFs in Marathi & Hindi.
+
+5. Resources Page
+
+Success stories of rural women entrepreneurs (include 2–3 sample case studies).
+
+Community links, NGO contacts, and helpline numbers.
+
+6. Contact / Feedback Page
+
+Simple form: (Name, Village, Message).
+
+WhatsApp link + Email button for direct contact.
+
+Design Guidelines
+
+Mobile-first, responsive.
+
+Large icons, minimal text, with cultural illustrations.
+
+Primary language: Marathi, with toggle for Hindi/English.
+
+Optimized for low bandwidth (compressed images).
+
+Footer:
+
+© 2025 Empowering Rural Women Entrepreneurs | Built for Rural India
+
+Technical Requirements
+
+Use HTML, CSS, JavaScript only (no heavy frameworks like React/Angular).
+
+Create a /downloads folder for PDFs & images.
+
+Add sample PDFs, case studies, and lightweight placeholder images/videos.
+
+Ensure offline usability with downloadable guides.
+
+Code must be clean, documented, and ready for deployment.
+
+Output Format
+
+Provide all source code files (HTML, CSS, JS).
+
+Include assets folder with images/icons.
+
+Include downloads folder with PDFs.
+
+Ensure folder structure is correct for static hosting.
+
+📌 Final Instruction to AI Builder:
+"Please generate the entire website with actual sample content, text, images, and downloadable PDFs included. Do not leave placeholders empty. Make the website unique, visually simple, and culturally relevant for rural women in Maharashtra."
